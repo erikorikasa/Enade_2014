@@ -16,5 +16,4 @@ A métrica para avaliação foi o RMSE (Root Mean Square Error) e o melhor resul
 
 
 
-#### Dependencias no arquivo Requirements.txt
-
+ Dependencias no arquivo requirements.txt
